@@ -1,0 +1,62 @@
+[2022-12-12 15:59:04] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
+[2022-12-12 15:59:21] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
+[2022-12-12 15:59:41] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2022-12-12 15:59:52] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
+[2022-12-12 16:00:06] [ INFO ] [OdontologoService:25] Inicio del proceso de guardar el odontologo con apellido: Muelas
+[2022-12-12 16:00:19] [ INFO ] [OdontologoService:25] Inicio del proceso de guardar el odontologo con apellido: Encias
+[2022-12-12 16:00:21] [ INFO ] [OdontologoService:53] Se inició el proceso de búsqueda de los odontologos
+[2022-12-12 16:00:44] [ INFO ] [PacienteService:49] Inicio el proceso de búsqueda del paciente con correo: pruebas@gmail.com
+[2022-12-12 16:00:44] [ INFO ] [PacienteService:24] Inicio el proceso de guardado del paciente con apellido: Baspineiro
+[2022-12-12 16:01:20] [ INFO ] [PacienteService:49] Inicio el proceso de búsqueda del paciente con correo: rodolfo@gmail.com
+[2022-12-12 16:01:20] [ INFO ] [PacienteService:24] Inicio el proceso de guardado del paciente con apellido: Baspineiros
+[2022-12-12 16:01:22] [ INFO ] [PacienteService:44] Inicio el proceso de búsqueda de los pacientes
+[2022-12-12 16:01:36] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 2
+[2022-12-12 16:01:36] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 16:01:36] [ INFO ] [TurnoService:63] Inicio el proceso de guardado del turno con fecha: 2022-12-12
+[2022-12-12 16:01:39] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2022-12-12 16:01:40] [ INFO ] [TurnoService:42] Inicio el proceso de búsqueda del turno con el id: 1
+[2022-12-12 16:01:44] [ INFO ] [TurnoService:42] Inicio el proceso de búsqueda del turno con el id: 1
+[2022-12-12 16:01:44] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 1
+[2022-12-12 16:01:44] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 16:01:44] [ INFO ] [TurnoService:58] Inicio el proceso de actualización del turno con id: 1
+[2022-12-12 16:01:44] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2022-12-12 16:01:46] [ INFO ] [TurnoService:42] Inicio el proceso de búsqueda del turno con el id: 1
+[2022-12-12 16:01:46] [ WARN ] [TurnoService:53] Se eliminó el turno con id: 1
+[2022-12-12 16:01:55] [ INFO ] [OdontologoService:53] Se inició el proceso de búsqueda de los odontologos
+[2022-12-12 16:01:57] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 1
+[2022-12-12 16:02:00] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 1
+[2022-12-12 16:02:00] [ INFO ] [OdontologoService:35] Se inició el proceso de actualización del odontologo con id: 1
+[2022-12-12 16:02:01] [ INFO ] [OdontologoService:53] Se inició el proceso de búsqueda de los odontologos
+[2022-12-12 16:02:03] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 1
+[2022-12-12 16:02:03] [ WARN ] [OdontologoService:43] Se eliminó el odontologo con id: 1
+[2022-12-12 16:02:04] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 2
+[2022-12-12 16:02:04] [ WARN ] [OdontologoService:43] Se eliminó el odontologo con id: 2
+[2022-12-12 16:02:07] [ INFO ] [PacienteService:44] Inicio el proceso de búsqueda de los pacientes
+[2022-12-12 16:02:09] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 16:02:13] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 16:02:13] [ INFO ] [PacienteService:34] Inicio el proceso de actualizar el paciente con el id: 1
+[2022-12-12 16:02:13] [ INFO ] [PacienteService:44] Inicio el proceso de búsqueda de los pacientes
+[2022-12-12 16:02:19] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 16:02:19] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-12 16:02:20] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 2
+[2022-12-12 16:02:20] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 2
+[2022-12-12 16:04:18] [ INFO ] [PacienteService:24] Inicio el proceso de guardado del paciente con apellido: Apellido
+[2022-12-12 16:04:18] [ INFO ] [OdontologoService:25] Inicio del proceso de guardar el odontologo con apellido: Baspineiro
+[2022-12-12 16:04:18] [ INFO ] [TurnoService:63] Inicio el proceso de guardado del turno con fecha: 2022-12-08
+[2022-12-12 16:04:18] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2022-12-12 20:08:48] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
+[2022-12-12 20:12:50] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
+[2022-12-12 20:13:12] [ INFO ] [OdontologoService:25] Inicio del proceso de guardar el odontologo con apellido: Muelas
+[2022-12-12 20:13:14] [ INFO ] [OdontologoService:53] Se inició el proceso de búsqueda de los odontologos
+[2022-12-12 20:13:34] [ INFO ] [PacienteService:49] Inicio el proceso de búsqueda del paciente con correo: pruebas@gmail.com
+[2022-12-12 20:13:34] [ INFO ] [PacienteService:24] Inicio el proceso de guardado del paciente con apellido: Baspineiro
+[2022-12-12 20:13:38] [ INFO ] [PacienteService:44] Inicio el proceso de búsqueda de los pacientes
+[2022-12-12 20:13:47] [ INFO ] [OdontologoService:30] Se inició el proceso de búsqueda del odontologo con id: 1
+[2022-12-12 20:13:47] [ INFO ] [PacienteService:29] Inicio el proceso de buscar paciente con el id: 1
+[2022-12-12 20:13:47] [ INFO ] [TurnoService:63] Inicio el proceso de guardado del turno con fecha: 2022-12-12
+[2022-12-12 20:13:50] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2022-12-12 20:16:01] [ INFO ] [PacienteService:24] Inicio el proceso de guardado del paciente con apellido: Apellido
+[2022-12-12 20:16:01] [ INFO ] [OdontologoService:25] Inicio del proceso de guardar el odontologo con apellido: Baspineiro
+[2022-12-12 20:16:01] [ INFO ] [TurnoService:63] Inicio el proceso de guardado del turno con fecha: 2022-12-08
+[2022-12-12 20:16:01] [ INFO ] [TurnoService:28] Inicio el proceso de búsqueda de los turnos
+[2023-01-06 13:47:25] [ INFO ] [UsuarioService:25] Inicio del proceso de la validación de los datos del usuario
